@@ -49,7 +49,7 @@ add the proper information into your README.md file.
 
 1. Open the README file in a text editor.
 2. Go to the _Embeddable Build Status_ page. The link is found on the main page of the job.
-3. Select the _Markdown (with View) protected_ link and paste it in your README.
+## 3. Select the _Markdown (with View) protected_ link and paste it in your README.
 4. Commit your README changes and push to Github.
 5. The change should automatically cause the job to build and after you can go to Github and check your repo. You should see the build status there
 
